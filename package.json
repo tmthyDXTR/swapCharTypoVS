@@ -2,9 +2,14 @@
   "name": "swapchartypo",
   "displayName": "Swap Character Typo",
   "description": "Swap the last two characters before your cursor",
+  "author": {
+    "name": "Michael Lang",
+    "company": "supacoda",
+    "email": "mlang@supacoda.de"
+  },
   "version": "0.0.1",
-  "engines": {
-    "vscode": "^1.98.0"
+  "engines": { 
+    "vscode": "^1.98.0"  
   },
   "categories": [
     "Other"
